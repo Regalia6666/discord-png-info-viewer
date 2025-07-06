@@ -1,3 +1,5 @@
+<img width="1717" height="813" alt="Image" src="https://github.com/user-attachments/assets/23c0545d-2653-4ee2-843c-1da2f1cb40b3" />
+
 # PNG Info Viewer
 
 [![License: MIT](https://img.shields.io/badge/License-MIT-yellow.svg)](https://opensource.org/licenses/MIT)
